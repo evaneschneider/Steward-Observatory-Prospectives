@@ -44,6 +44,26 @@ body {
   clear: right;
 }
 
+.picCaptionFullWidth {
+    text-align: center;
+    font-size: small;
+  width: 700;
+  margin-top: 5;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.picCaptionHalfWidth {
+    text-align: center;
+    font-size: small;
+  width: 270;
+  margin: 0 0 25 25;
+  border: 0;
+  float: right;
+  clear: right;
+}
+
+
 
 .endpics {
   text-align: center;
@@ -59,6 +79,7 @@ body {
   margin: 25;
   border: 0;
 }
+
 
 .sectitle {
   font-size: 20;
